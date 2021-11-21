@@ -5,24 +5,24 @@
 /*
 * Font sizes
 */
- 
+
 $line-height: 22px;
 $caption-fs: 16px;
 $paper-title-fs: 20px;
 $paper-authors-fs: 16px;
 $people-fs: 17px;
- 
+
 /*
 * Colors
 */
 
 $navbar-background-color: white;
-$navbar-text-color: #c62828;
+$navbar-text-color: white;
 $anchor-color: #c62828;
 $anchor-underline-color: #ef9a9a;
 $text-color: black;
 $title-color: black;
- 
+
 /*
  * Basic
  */
@@ -34,7 +34,6 @@ html {
 }
 
 body {
-    padding: 100px 0 0 0;
     margin: 0;
     font-family: "Open Sans", Helvetica, sans-serif;
     height: 100%;
@@ -87,7 +86,7 @@ hr {
 }
 
 .float-right {
-    float: right; 
+    float: right;
 }
 
 .content {

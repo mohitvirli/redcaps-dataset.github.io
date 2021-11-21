@@ -5,7 +5,8 @@ permalink: "/explore"
 
 <link rel="stylesheet" type="text/css" href="/static/css/explore.css">
 
-<h2>Select a subreddit to explore</h2>
+<div class="container mt-4 pt-4">
+<h2 class="mt-4 pt-4">Select a subreddit to explore</h2>
 
 Click any link to view 1000 random instances belonging to that subreddit in RedCaps.
 Actual size of each subreddit is mentioned in paranthesis.
@@ -409,3 +410,4 @@ Actual size of each subreddit is mentioned in paranthesis.
 <hr>
 <h3>Z</h3><div class="row"><div class="col-md-4 col-sm-4 col-xs-12"><span><a href="/explore/zerowaste">r/zerowaste</a> (7.6K)</span></div>
 
+</div>
